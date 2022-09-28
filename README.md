@@ -22,4 +22,4 @@
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 <img src="https://preview.redd.it/mdjsol1eiad11.jpg?auto=webp&s=7e8834cc7b246ab62fb43f0cc5e3e47bdeef4ac1" width="512px"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=bilal99-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=bilal99-coder&icon=0&color=0)](https://visitcount.itsvg.in) -->
