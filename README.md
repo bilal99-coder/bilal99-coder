@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on implementing an intrusion detection system as a part of my bachelor thesis<br>👯 I’m looking to collaborate on open source projects build on .NET, Java, Python or GO<br>🤝 I’m looking for help with<br>🌱 I’m currently learning more on .NET and Azure <br>💬 Ask me about anything and I would kindly try to help <br>⚡ Fun fact I love both c# and java 
-
+🔭 I’m currently working on implementing an intrusion detection system as a part of my bachelor thesis<br>👯 I’m looking to collaborate on open source projects build on .NET, Java, Python or GO🌱 I’m currently learning more on .NET and Azure <br>💬 Ask me about anything and I would kindly try to help <br>⚡ Fun fact I love both c# and java 
+<!--- <br>🤝 I’m looking for help with<br> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bilal-sahli-4a10b4126) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19752648) 
@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+<img src="https://preview.redd.it/mdjsol1eiad11.jpg?auto=webp&s=7e8834cc7b246ab62fb43f0cc5e3e47bdeef4ac1" width="512px"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=bilal99-coder&icon=0&color=0)](https://visitcount.itsvg.in)
